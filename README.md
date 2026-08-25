@@ -78,4 +78,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/gouri-jat/Leedcode-submissions/tree/master/0069-sqrtx) |
+## Stack
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/gouri-jat/Leedcode-submissions/tree/master/0155-min-stack) |
+## Design
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/gouri-jat/Leedcode-submissions/tree/master/0155-min-stack) |
 <!---LeetCode Topics End-->
